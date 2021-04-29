@@ -132,10 +132,7 @@
   <data name="Outline" xml:space="preserve">
     <value>アウトライン</value>
   </data>
-  <data name="Done" xml:space="preserve">
-    <value>完了</value>
-  </data>
-  <data name="Ok" xml:space="preserve">
+  <data name="OK" xml:space="preserve">
     <value>完了</value>
   </data>
   <data name="EditText" xml:space="preserve">
@@ -161,5 +158,29 @@
   </data>
   <data name="Add" xml:space="preserve">
     <value>追加する</value>
+  </data>
+  <data name="Blur" xml:space="preserve">
+    <value>ぼかし</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>輝度</value>
+  </data>
+  <data name="Circular" xml:space="preserve">
+    <value>サーキュラー</value>
+  </data>
+  <data name="Contrast" xml:space="preserve">
+    <value>コントラスト</value>
+  </data>
+  <data name="Ellipse" xml:space="preserve">
+    <value>楕円</value>
+  </data>
+  <data name="Hue" xml:space="preserve">
+    <value>色相</value>
+  </data>
+  <data name="Saturation" xml:space="preserve">
+    <value>飽和</value>
+  </data>
+  <data name="Sharpen" xml:space="preserve">
+    <value>シャープにする</value>
   </data>
 </root>
