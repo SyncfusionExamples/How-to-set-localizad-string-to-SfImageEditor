@@ -1,6 +1,6 @@
 # How to set localized string to SfImageEditor
 
-This repository contains sample for how to set localized string to the [Syncfusion Xamarin.Forms Image Editor](https://help.syncfusion.com/xamarin/image-editor/getting-started) control.
+This repository contains sample to set localized string to the [Syncfusion Xamarin.Forms Image Editor](https://help.syncfusion.com/xamarin/image-editor/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/10602/how-to-set-localized-string-to-xamarin-forms-sfimageeditor).
 
